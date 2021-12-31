@@ -1,0 +1,2 @@
+# Destiny2TrialsMatchPredictor
+Destiny 2 is an online MMO/First Person Shooter that has a mix of player vs environment and player vs player. The highest level of player vs player content is Trials of Osiris, where two teams of three guardians face off. Each guardian can be one of three main classes: hunter, warlock, and titan. The goal of this project was to create a match predictor, that when given six players and their team affiliation will predict who will win the match. 
